@@ -1,51 +1,57 @@
-# ¡Hola! Soy Luis Enrique Lopez Zapata 👋
+# Hi there, I'm Luis Enrique Lopez Zapata! <img src="https://raw.githubusercontent.com/itbeis/itbeis/main/hi.gif" width="30px">
 
-### 🤖 Estudiante de Ingeniería en Inteligencia Artificial | IPN
-Me especializo en transformar datos en insights estratégicos y soluciones automatizadas. [cite_start]Actualmente curso el octavo semestre en la **Escuela Superior de Cómputo (ESCOM - IPN)** [cite: 8, 9][cite_start], con un fuerte enfoque en **Machine Learning** y **Ciencia de Datos**[cite: 4, 12].
+### 🤖 AI Engineering Student | Data Scientist | RAG & LLM Developer
 
----
-
-## 🛠️ Mi Tech Stack
-
-### **IA & Data Science**
-* [cite_start]**Lenguajes:** Python (NumPy, Pandas, scikit-learn)[cite: 26, 27].
-* [cite_start]**Computer Vision:** OpenCV[cite: 27].
-* **Generative AI:** Implementación de **LLMs** y arquitecturas **RAG** utilizando **Llama**.
-* [cite_start]**Visualización:** Power BI, Excel avanzado[cite: 28].
-
-### **Desarrollo Backend & Herramientas**
-* [cite_start]**Frameworks:** FastAPI, Vue.js[cite: 29].
-* [cite_start]**Bases de Datos:** SQL (Diseño, optimización e integridad)[cite: 16, 26].
-* [cite_start]**Control de Versiones:** Git[cite: 30].
+[cite_start]Estudiante de **Ingeniería en Inteligencia Artificial** en la **ESCOM, IPN**[cite: 7, 8]. [cite_start]Me especializo en transformar datos en insights de negocio estratégicos y en el desarrollo de soluciones automatizadas de alto impacto[cite: 6].
 
 ---
 
-## 🚀 Proyectos Destacados
+### 🚀 Sobre mí
 
-### 🎥 [API para Reescalado de Video con Redes Neuronales](https://github.com/tu-usuario/nombre-repo)
-[cite_start]Proyecto de titulación centrado en el diseño de una **API REST** para aumentar la resolución de video mediante Redes Neuronales Convolucionales (**SRCNN**)[cite: 19, 21, 22].
-* [cite_start]Integración de técnicas de mejora de contraste y reducción de ruido[cite: 23].
-* [cite_start]Desarrollado con **Python** y **FastAPI**[cite: 22, 29].
-
-### ⚙️ Automatización y Gestión de Datos (IPN)
-[cite_start]Durante mi experiencia en la Dirección de Educación Virtual[cite: 15]:
-* [cite_start]Diseñé bases de datos internas para sistemas de registro de usuarios[cite: 16].
-* [cite_start]Automaticé flujos de trabajo manuales mediante scripts, optimizando el procesamiento de información[cite: 17].
+- [cite_start]🎓 Actualmente cursando el 8vo semestre de mi ingeniería[cite: 9].
+- [cite_start]🛠️ Experiencia práctica en **Automatización de Procesos** y gestión de bases de datos con Python (FastAPI) y SQL[cite: 5, 17].
+- 🔍 Enfocado en el desarrollo de arquitecturas **RAG (Retrieval-Augmented Generation)** y fine-tuning de LLMs (Llama 3, LangChain) para consultoría técnica.
+- [cite_start]📈 Interesado en la visualización de datos para el seguimiento de KPIs y toma de decisiones[cite: 6].
 
 ---
 
-## 📈 Certificaciones & Educación
-* [cite_start]**Ingeniería en IA** - IPN (Enero 2022 - Enero 2026)[cite: 7, 8, 11].
-* [cite_start]**Machine Learning** - Código Facilito[cite: 39].
-* [cite_start]**Python Esencial** - LinkedIn Learning[cite: 38].
-* [cite_start]**Excel** - Santander[cite: 40].
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| **Categoría** | **Tecnologías** |
+| :--- | :--- |
+| **AI & Data Science** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **NLP & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-blue?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
+| **Backend & DB** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-yellow?style=for-the-badge) |
+| **Data Viz** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| **Frontend & Tools** | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+
+</div>
 
 ---
 
-## 🤝 Conéctate conmigo
-[cite_start]Me apasiona el aprendizaje autónomo y el trabajo colaborativo[cite: 32, 33]. ¡Hablemos de datos e inteligencia artificial!
+### 💡 Proyectos Destacados
 
-* [cite_start][**LinkedIn**](https://www.linkedin.com/in/luis-enrique-lopez-zapata) [cite: 3]
-* [**Instagram**](https://instagram.com/TU_USUARIO)
+* [cite_start]**API para Reescalado de Video (SRCNN):** Diseño de una API REST que utiliza Redes Neuronales Convolucionales para optimizar la calidad visual, reduciendo ruido y mejorando el contraste[cite: 19, 22, 23].
+* **Asistente Agile RAG (Concacaf):** Implementación de una arquitectura de recuperación de información utilizando **LangChain**, **ChromaDB** y **Ollama** para la gestión federativa bajo metodologías ágiles.
+* **Predictor de Churn Bancario:** Modelo de Machine Learning (Random Forest) para la predicción de fuga de clientes.
 
 ---
+
+### 📫 Contacto
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/luis-enrique-lopez-zapata" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
