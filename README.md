@@ -72,13 +72,6 @@
 - Integración de técnicas avanzadas de mejora de contraste y reducción de ruido
 - Optimización de rendimiento para procesamiento en tiempo real
 
-### 🔍 Sistema RAG para Gestión Federativa
-**Tecnologías:** LangChain, Ollama (Llama 3.1), ChromaDB, NLTK
-
-- Desarrollo de sistema de Retrieval-Augmented Generation
-- Implementación de embeddings con BGE-M3 para búsqueda semántica
-- Diseño de prompts especializados para consultas técnicas
-
 ---
 
 ## 📈 GitHub Stats
