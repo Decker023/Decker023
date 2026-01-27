@@ -1,4 +1,4 @@
-# Hi there, I'm Luis Enrique Lopez Zapata! <img src="https://raw.githubusercontent.com/itbeis/itbeis/main/hi.gif" width="30px">
+# Hola, soy Luis Enrique Lopez Zapata! <img src="https://raw.githubusercontent.com/itbeis/itbeis/main/hi.gif" width="30px">
 
 ### 🤖 AI Engineering Student | Data Scientist | RAG & LLM Developer
 
