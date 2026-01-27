@@ -13,9 +13,9 @@
 
 ## 🚀 Sobre mí
 
-Estudiante de **Ingeniería en Inteligencia Artificial** en ESCOM-IPN con pasión por transformar datos en soluciones innovadoras. Especializado en **Machine Learning**, **Computer Vision** y **Procesamiento de Lenguaje Natural**, con experiencia práctica en el desarrollo de sistemas inteligentes y APIs de alto rendimiento.
+**Recién egresado** de **Ingeniería en Inteligencia Artificial** en ESCOM-IPN, especializado en **Ciencia de Datos** y **Machine Learning Engineering**. Cuento con experiencia práctica en el desarrollo de pipelines de datos, implementación de modelos de ML, y automatización de procesos analíticos.
 
-🔭 Actualmente trabajando en mi proyecto de titulación: **API de Reescalado de Video con Redes Neuronales Convolucionales**
+🔭 Busco oportunidades como **Data Scientist**, **ML Engineer** o **AI Engineer** donde pueda aplicar mis habilidades técnicas en proyectos de impacto
 
 🌱 Explorando constantemente nuevas tecnologías en **LLMs**, **RAG** y **Deep Learning**
 
@@ -28,11 +28,16 @@ Estudiante de **Ingeniería en Inteligencia Artificial** en ESCOM-IPN con pasió
 
 - Diseño y estructuración de bases de datos para sistemas de registro
 - Automatización de flujos de trabajo con Python (FastAPI)
-- Desarrollo full-stack con metodologías ágiles
+- Desarrollo full-stack
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 📊 Data Science & Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🧠 Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,11 +52,6 @@ Estudiante de **Ingeniería en Inteligencia Artificial** en ESCOM-IPN con pasió
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
-
-### 📊 Data Science & Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🌐 Web Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -85,9 +85,9 @@ Estudiante de **Ingeniería en Inteligencia Artificial** en ESCOM-IPN con pasió
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Decker023&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decker023&layout=compact&theme=radical)
 
 </div>
 
@@ -100,7 +100,7 @@ Estudiante de **Ingeniería en Inteligencia Artificial** en ESCOM-IPN con pasió
 💼 Abierto a oportunidades en **Data Science**, **Machine Learning** y **AI Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luis-enrique-lopez-zapata)
-[![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/tu_usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/luislopezz_09/)
 
 </div>
 
@@ -109,7 +109,5 @@ Estudiante de **Ingeniería en Inteligencia Artificial** en ESCOM-IPN con pasió
 <div align="center">
   
 ### ⚡ "Transformando datos en decisiones inteligentes"
-
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square)
 
 </div>
