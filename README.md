@@ -1,57 +1,115 @@
-# Hola, soy Luis Enrique Lopez Zapata! <img src="https://raw.githubusercontent.com/itbeis/itbeis/main/hi.gif" width="30px">
+<div align="center">
+  
+# 👋 Hola, soy Luis Enrique López Zapata
 
-### 🤖 AI Engineering Student | Data Scientist | RAG & LLM Developer
+### 🤖 Ingeniero en Inteligencia Artificial | Data Scientist | ML Engineer
 
-[cite_start]Estudiante de **Ingeniería en Inteligencia Artificial** en la **ESCOM, IPN**[cite: 7, 8]. [cite_start]Me especializo en transformar datos en insights de negocio estratégicos y en el desarrollo de soluciones automatizadas de alto impacto[cite: 6].
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-enrique-lopez-zapata)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu_usuario)
 
----
-
-### 🚀 Sobre mí
-
-- [cite_start]🎓 Actualmente cursando el 8vo semestre de mi ingeniería[cite: 9].
-- [cite_start]🛠️ Experiencia práctica en **Automatización de Procesos** y gestión de bases de datos con Python (FastAPI) y SQL[cite: 5, 17].
-- 🔍 Enfocado en el desarrollo de arquitecturas **RAG (Retrieval-Augmented Generation)** y fine-tuning de LLMs (Llama 3, LangChain) para consultoría técnica.
-- [cite_start]📈 Interesado en la visualización de datos para el seguimiento de KPIs y toma de decisiones[cite: 6].
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Sobre mí
+
+Estudiante de **Ingeniería en Inteligencia Artificial** en ESCOM-IPN con pasión por transformar datos en soluciones innovadoras. Especializado en **Machine Learning**, **Computer Vision** y **Procesamiento de Lenguaje Natural**, con experiencia práctica en el desarrollo de sistemas inteligentes y APIs de alto rendimiento.
+
+🔭 Actualmente trabajando en mi proyecto de titulación: **API de Reescalado de Video con Redes Neuronales Convolucionales**
+
+🌱 Explorando constantemente nuevas tecnologías en **LLMs**, **RAG** y **Deep Learning**
+
+---
+
+## 💼 Experiencia
+
+**Desarrollador Web** | *Dirección de Educación Virtual, IPN*  
+📅 Junio 2024 - Marzo 2025
+
+- Diseño y estructuración de bases de datos para sistemas de registro
+- Automatización de flujos de trabajo con Python (FastAPI)
+- Desarrollo full-stack con metodologías ágiles
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🤖 LLMs & RAG
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+
+### 📊 Data Science & Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🌐 Web Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### 🔧 Tools & Other
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🎯 Proyectos Destacados
+
+### 🎥 API de Reescalado de Video con Redes Neuronales
+**Tecnologías:** Python, PyTorch, OpenCV, SRCNN, FastAPI
+
+- Implementación de una API REST para super-resolution de video usando CNNs
+- Integración de técnicas avanzadas de mejora de contraste y reducción de ruido
+- Optimización de rendimiento para procesamiento en tiempo real
+
+### 🔍 Sistema RAG para Gestión Federativa
+**Tecnologías:** LangChain, Ollama (Llama 3.1), ChromaDB, NLTK
+
+- Desarrollo de sistema de Retrieval-Augmented Generation
+- Implementación de embeddings con BGE-M3 para búsqueda semántica
+- Diseño de prompts especializados para consultas técnicas
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 📫 Contacto
 
 <div align="center">
 
-| **Categoría** | **Tecnologías** |
-| :--- | :--- |
-| **AI & Data Science** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **NLP & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-blue?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) |
-| **Backend & DB** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-yellow?style=for-the-badge) |
-| **Data Viz** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| **Frontend & Tools** | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+💼 Abierto a oportunidades en **Data Science**, **Machine Learning** y **AI Engineering**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luis-enrique-lopez-zapata)
+[![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/tu_usuario)
 
 </div>
 
 ---
 
-### 💡 Proyectos Destacados
+<div align="center">
+  
+### ⚡ "Transformando datos en decisiones inteligentes"
 
-* [cite_start]**API para Reescalado de Video (SRCNN):** Diseño de una API REST que utiliza Redes Neuronales Convolucionales para optimizar la calidad visual, reduciendo ruido y mejorando el contraste[cite: 19, 22, 23].
-* **Asistente Agile RAG (Concacaf):** Implementación de una arquitectura de recuperación de información utilizando **LangChain**, **ChromaDB** y **Ollama** para la gestión federativa bajo metodologías ágiles.
-* **Predictor de Churn Bancario:** Modelo de Machine Learning (Random Forest) para la predicción de fuga de clientes.
+![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat-square)
 
----
-
-### 📫 Contacto
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/luis-enrique-lopez-zapata" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
