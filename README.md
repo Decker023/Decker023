@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hola, soy Luis Enrique López Zapata
+# 👋 Hola, soy Luis Enrique Lopez Zapata
 
 ### 🤖 Ingeniero en Inteligencia Artificial | Data Scientist | ML Engineer
 
